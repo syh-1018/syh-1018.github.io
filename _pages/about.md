@@ -28,7 +28,7 @@ His research interest includes data visualization, eXplainable Artifical Intelli
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/PBL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CHI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education
