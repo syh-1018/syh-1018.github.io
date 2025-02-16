@@ -38,8 +38,29 @@ Yuansong Xu, **Yuheng Shao**, Jiahe Dong, Shaohan Shi, Chang Jiang, Quan Li
 Conditionally Accepted by CHI 2025
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CHI2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+Medillustrator: Improving Retrospective Learning in Physicians’ Continuous Medical Education via Multimodal Diagnostic Data Alignment and Representation
+
+Yuansong Xu, Jiahe Dong, Yijie Fan, **Yuheng Shao**, Chang Jiang, Lixia Jin, Yuanwu Cao, Quan Li
+
+[Preprint](https://arxiv.org/abs/2411.15593)
+
+We introduce Medillustrator, a visual analytics system crafted to facilitate novice physicians’ retrospective learning. Our structured approach enables novice physicians to explore and review research cases at an overview level and analyze specific cases with consistent alignment of multimodal and reference data. Furthermore, physicians can record and review analyzed results to facilitate further retrospection.
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CHI2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education
+
+Yuansong Xu, **Yuheng Shao**, Jiahe Dong, Shaohan Shi, Chang Jiang, Quan Li
+
+Conditionally Accepted by CHI 2025
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
