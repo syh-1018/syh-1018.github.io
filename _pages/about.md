@@ -38,7 +38,7 @@ Yuansong Xu, **Yuheng Shao**, Jiahe Dong, Shaohan Shi, Chang Jiang, Quan Li
 Conditionally Accepted by CHI 2025
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CHI2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese CHI 2024</div><img src='images/CHI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Medillustrator: Improving Retrospective Learning in Physicians’ Continuous Medical Education via Multimodal Diagnostic Data Alignment and Representation
