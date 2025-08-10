@@ -32,7 +32,7 @@ His research interest includes data visualization, eXplainable Artifical Intelli
 
 MEDebiaser: A Human-AI Feedback System for Mitigating Bias in Multi-label Medical Image Classification
 
-Shaohan Shi, **Yuheng Shao**, Haoran Jiang, Yunjie Yao, Zhijun Zhang, Xu Ding*, Quan Li*
+Shaohan Shi, **Yuheng Shao**, Haoran Jiang, Yunjie Yao, Zhijun Zhang, Xu Ding\*, Quan Li\*
 
 Conditionally Accepted by UIST 2025
 </div>
