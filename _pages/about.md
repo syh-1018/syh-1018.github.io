@@ -26,6 +26,18 @@ His research interest includes data visualization, eXplainable Artifical Intelli
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MEDebiaser: A Human-AI Feedback System for Mitigating Bias in Multi-label Medical Image Classification
+
+Shaohan Shi, **Yuheng Shao**, Haoran Jiang, Yunjie Yao, Zhijun Zhang, Xu Ding*, Quan Li*
+
+Conditionally Accepted by UIST 2025
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CHI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
