@@ -22,7 +22,13 @@ Yuheng Shao is currently pursuing his master's degree(supervised by [Quan Li](ht
 His research interest includes data visualization, eXplainable Artifical Intelligence(XAI) and computational social sciences. His research goal is to enhance human-AI collaboration by developing intuitive visual interfaces that improve the transparency and interpretability of AI systems.
 
 
-# 🔥 News
+# 🔥 News  
+- *2025.08*: &nbsp;🎉🎉 Our paper "FashionCook: A Visual Analytics System for Human-AI Collaboration in Fashion E-Commerce Design" was accepted by CG&A 2025.
+- *2025.07*: &nbsp;🎉🎉 Our paper "MEDebiaser: A Human-AI Feedback System for Mitigating Bias in Multi-label Medical Image Classification" was accepted by UIST 2025.
+- *2025.01*: &nbsp;🎉🎉 Our paper "Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education" was accepted by CHI 2025.  
+- *2024.12*: &nbsp;🎉🎉 Our paper "StratIncon Detector: Analyzing Strategy Inconsistencies Between Real-Time Decisions and Professional Optimal Play in MOBA Esports" was accepted by IUI 2025.
+- *2024.11*: &nbsp;🎉🎉 Our paper "Medillustrator: Improving Retrospective Learning in Physicians’ Continuous Medical Education via Multimodal Diagnostic Data Alignment and Representation" was accepted by Chinese CHI 2024.
+
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CG&A 2025</div><img src='images/CG&A_FashionCook.png' alt="sym" width="100%"></div></div>
