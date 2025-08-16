@@ -38,7 +38,7 @@ FashionCook: A Visual Analytics System for Human-AI Collaboration in Fashion E-C
 
 **Yuheng Shao**\*, Shiyi Liu\*, Gongyan Chen, Ruofei Ma, Xingbo Wang, Quan Li
 
-Conditionally Accepted by UIST 2025
+Conditionally Accepted by CG&A 2025
 </div>
 </div>
 
