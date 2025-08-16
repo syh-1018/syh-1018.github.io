@@ -25,7 +25,16 @@ His research interest includes data visualization, eXplainable Artifical Intelli
 # 🔥 News
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CG&A 2025</div><img src='images/CG&A_FashionCook.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+FashionCook: A Visual Analytics System for Human-AI Collaboration in Fashion E-Commerce Design
+
+**Yuheng Shao**\*, Shiyi Liu\*, Gongyan Chen, Ruofei Ma, Xingbo Wang, Quan Li
+
+Conditionally Accepted by UIST 2025
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,8 +75,6 @@ Medillustrator: Improving Retrospective Learning in Physicians’ Continuous Med
 Yuansong Xu, Jiahe Dong, Yijie Fan, **Yuheng Shao**, Chang Jiang, Lixia Jin, Yuanwu Cao, Quan Li
 
 [Preprint](https://arxiv.org/abs/2411.15593)
-
-We introduce Medillustrator, a visual analytics system crafted to facilitate novice physicians’ retrospective learning. Our structured approach enables novice physicians to explore and review research cases at an overview level and analyze specific cases with consistent alignment of multimodal and reference data. Furthermore, physicians can record and review analyzed results to facilitate further retrospection.
 </div>
 </div>
 
